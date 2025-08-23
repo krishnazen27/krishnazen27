@@ -2,34 +2,34 @@
 
 🚀 **Senior Cloud & DevOps Architect | Multi-Cloud Strategist | Team Leader**
 
-With over 13 years of experience driving cloud transformation and infrastructure automation, I specialize in architecting scalable, secure, and resilient solutions across AWS, Azure, GCP, and Oracle Cloud. My journey spans physical infrastructure to virtualization, containerization, cloud-native platforms, and now AI/ML Ops — always with a focus on continuous improvement and future-proofing.
+With over 13 years of experience driving cloud transformation and infrastructure automation, I specialize in architecting scalable, secure, and resilient solutions across VMware, Hybride cloud, AWS, Azure, GCP. My journey spans physical infrastructure to virtualization, containerization, cloud-native platforms, DevOps and now AI/ML Ops — always with a focus on continuous improvement and future-proofing.
 
 ## 🔧 Core Expertise
 
-- 🌩️ **Multi-Cloud Architecture** – AWS, Azure, GCP, Oracle Cloud
+- 🌩️ **Multi-Cloud Architecture** – AWS, Azure, GCP, VMware
 - ⚙️ **Infrastructure as Code** – Terraform, Ansible, CloudFormation
-- 🚀 **CI/CD Pipelines** – GitHub Actions, Jenkins, Azure DevOps
+- 🚀 **CI/CD Pipelines** – GitHub Actions, Jenkins, Azure DevOps, Bitbucket
 - 🐳 **Containers & Orchestration** – Kubernetes, Docker, Helm, Podman
-- 📈 **Observability & Monitoring** – Prometheus, Grafana, Splunk, AppDynamics
+- 📈 **Observability & Monitoring** – Prometheus, Grafana, Splunk, AppDynamics , ELK Stack
 - 🔐 **DevSecOps & Compliance Automation**
 - 🔄 **Cloud Migration & Legacy Modernization**
 - 🧠 **AI/ML Ops Exploration** – Bridging intelligent automation with DevOps
 
 ## 👥 Leadership & Impact
 
-- Led high-performing DevOps teams at Deloitte Consulting
+- Led high-performing DevOps teams at MNC's
 - Delivered enterprise-grade automation frameworks and hybrid cloud solutions
-- Mentored engineers and contributed to thought leadership via documentation and LinkedIn
+- Mentored engineers and contributed to thought Technologies and transformations 
 
 ## 🌍 Career Goals
 
-- Seeking global opportunities in the Middle East or Europe
+- Seeking global opportunities and Freelancing 
 - Passionate about strategic cloud leadership and intelligent infrastructure
 - Committed to staying at the forefront of AI-augmented DevOps
 
 ## 📫 Let’s Connect
 
-Feel free to explore my repos, reach out for collaboration, or connect on [LinkedIn](https://www.linkedin.com/in/krishna-devops/) to talk cloud, automation, or career growth.
+Feel free to explore my repos, reach out for collaboration, or connect to talk cloud, DevOps, automation, emerging technologies, Digital transformation or career growth.
 
 ---
 
